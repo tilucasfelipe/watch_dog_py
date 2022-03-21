@@ -1,5 +1,8 @@
 # Algoritmo Wathdogs criado para analisar em tempo real todas as alterações realizadas no diretório do projeto.
 __________________________________________________________________________
+
+### A versão inicial do projeto requer que o script seja seja executado na raiz da pasta que será verificada.
+
 #### O algoritmo conta com os módulos:
 - socket
 - os
